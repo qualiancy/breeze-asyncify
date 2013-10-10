@@ -1,4 +1,4 @@
-# breeze-asyncify
+# breeze-asyncify [![Build Status](https://travis-ci.org/qualiancy/breeze-asyncify.png?branch=master)](https://travis-ci.org/qualiancy/breeze-asyncify)
 
 > Make a syncronous function asyncronous.
 

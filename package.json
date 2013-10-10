@@ -1,6 +1,6 @@
 {
     "name": "breeze-asyncify"
-  , "version": "0.0.0"
+  , "version": "0.1.0"
   , "description": "Make a syncronous function asyncronous."
   , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
   , "license": "MIT"

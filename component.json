@@ -1,7 +1,7 @@
 {
     "name": "breeze-asyncify"
   , "repo": "qualiancy/breeze-asyncify"
-  , "version": "0.0.0"
+  , "version": "0.1.0"
   , "description": "Make a syncronous function asyncronous."
   , "license": "MIT"
   , "keywords": [
