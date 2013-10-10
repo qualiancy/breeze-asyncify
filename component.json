@@ -10,6 +10,8 @@
   , "scripts": [
         "lib/asyncify.js"
     ]
-  , "dependencies": {}
+  , "dependencies": {
+        "qualiancy/breeze-nexttick": "0.2.1"
+    }
   , "development": {}
 }
